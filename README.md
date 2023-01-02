@@ -21,7 +21,7 @@ To view a live example, **[click here](https://e-kibet.github.io/)**
 * [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
 
 ## Contributing 💡
-
+Read the instructions under the instruction file - see the [CONTRIBUTING.md](./contributing.MD) file for details.
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
