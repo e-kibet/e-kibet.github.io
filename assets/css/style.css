@@ -1,6 +1,10 @@
 * {
-    font-family: 'Anybody', cursive;
+    font-family: 'Montserrat';
 
+}
+
+body {
+    font-family: 'Montserrat';
 }
 
 .profile-pic {
@@ -29,7 +33,6 @@
     right: 0;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Poiret+One);
 
 .social {
     margin: 0 auto;
