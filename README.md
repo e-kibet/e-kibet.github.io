@@ -19,6 +19,7 @@ To view a live example, **[click here](https://e-kibet.github.io/)**
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
 * [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
+* [<b>Google fonts</b>](https://fonts.google.com/) - A Global google fonts for website font formatting.
 
 ## Contributing 💡
 Read the instructions under the instruction file - see the [CONTRIBUTING.md](./contributing.MD) file for details.
